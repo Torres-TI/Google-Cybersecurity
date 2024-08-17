@@ -46,8 +46,10 @@
   </ul>
 </p>
 <p><b>NIST Cybersecurity Framework CSF</b> is a open source framework organized by five keys indentify, protect, detect, respond and recover.</p>
-<p><b>Playbooks</b> are manuals to ensure the people will folllow the right list of actions, it's like a checklist.</p>
-<p>Incident Response Playbook it's the most common palybook guide in cybersecurity, that playbook is separeted in 6 phases:</p>
+<p><b>Playbooks</b> are manuals to ensure the people will folllow the right list of actions, it's like a checklist.
+  <br>Incident Response Playbook it's the most common palybook guide in cybersecurity, that playbook is separeted in 6 phases:
+</p>
+
 <ul>
   <li>Preparation</li>
   <li>Detection and analysis</li>
