@@ -25,8 +25,11 @@
     </ul>
   </ul>
 </p>
-<p>Tip: Controls are a core element of the CIA Triad.</p>
-<p>Tip: CTF means Cyber Threat Framework :)</p>
+<p>
+  Tip: Controls are a core element of the CIA Triad.<br>
+  Tip: CTF means Cyber Threat Framework :)
+</p>
+
 <p>
   <b>CIA Triad</b> is a model that helps inform how organizations consider risk when setting up systems and security policies.
   <span>Tip: CIA: Confidentiality, Integrity, and Availability</span>
